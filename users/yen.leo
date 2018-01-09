@@ -9,21 +9,21 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="yen.20170108171605.1"><vh>@settings</vh>
+<v t="yen.20170108171605.1" a="E"><vh>@settings</vh>
 <v t="yen.20170108171605.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="yen.20170108171605.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
 <v t="yen.20170108171622.1"><vh>有關 2017fall CADP &amp; CP</vh></v>
 <v t="yen.20170108171733.1" a="E"><vh>@path ../</vh>
-<v t="leo.20170912150642.1" a="E"><vh>近端無 disqus</vh>
+<v t="leo.20170912150642.1"><vh>近端無 disqus</vh>
 <v t="yen.20170108171733.2"><vh>@button pelican-blog</vh></v>
 </v>
-<v t="leo.20170912150710.1" a="E"><vh>有 disqus 論壇</vh>
+<v t="leo.20170912150710.1"><vh>有 disqus 論壇</vh>
 <v t="leo.20170912150710.2"><vh>@button github-blog</vh></v>
 </v>
 <v t="yen.20170108171733.3"><vh>@edit README.md</vh></v>
 <v t="yen.20170108171733.4"><vh>@edit .gitignore</vh></v>
-<v t="yen.20170108171733.5" a="E"><vh>Pelican 設定</vh>
+<v t="yen.20170108171733.5"><vh>Pelican 設定</vh>
 <v t="leo.20170912145121.1" a="E"><vh>近端</vh>
 <v t="yen.20170108171733.6"><vh>@edit local_publishconf.py</vh></v>
 </v>
@@ -33,7 +33,7 @@
 <v t="leo.20170912145133.1"><vh>共用</vh></v>
 <v t="yen.20170108171733.7"><vh>@edit pelicanconf.py</vh></v>
 </v>
-<v t="yen.20170224232341.1" a="E"><vh>編輯 template</vh>
+<v t="yen.20170224232341.1"><vh>編輯 template</vh>
 <v t="yen.20170224232341.2" a="E"><vh>@path theme/pelican-bootstrap3_local/templates</vh>
 <v t="yen.20170224232341.3"><vh>@edit base.html</vh></v>
 </v>
@@ -99,8 +99,27 @@
 <v t="leo.20171114202455.1"><vh>筆記</vh>
 <v t="leo.20171114202455.2"><vh>內容</vh></v>
 </v>
-<v t="leo.20171108232337.1"><vh>分數</vh>
+<v t="leo.20171108232337.1" a="E"><vh>分數</vh>
 <v t="leo.20171108232346.1"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20180109183609.1" a="E"><vh>W10-W12</vh>
+<v t="leo.20180109203226.1"><vh>W10-W12</vh>
+<v t="leo.20180109203228.1"><vh>內容</vh></v>
+</v>
+<v t="leo.20180109183614.1"><vh>修改隨身系統</vh>
+<v t="leo.20180109183919.1"><vh>內容</vh></v>
+</v>
+<v t="leo.20180109202133.1"><vh>Dia pottable、GIMP Portable</vh>
+<v t="leo.20180109202133.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20180109202210.1"><vh>eric6</vh>
+<v t="leo.20180109202210.2"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20180109203755.1" a="E"><vh>W13-W15</vh>
+<v t="leo.20180109204648.1" a="E"><vh>W13-W15</vh>
+<v t="leo.20180109204723.1"><vh>內容</vh></v>
 </v>
 </v>
 <v t="leo.20170911090822.1"><vh>隨身碟內容介紹</vh>
@@ -684,6 +703,69 @@ for i in range(8):
 &lt;img src="https://cpa.kmol.info/40623118/raw/dbd30b7df7becc6d69e5018cdc69441d49947348770faa1e152e61ef34caf282?m=image/jpeg" width="200" height="250"&gt;&lt;/a&gt;
 &lt;img src="https://cpa.kmol.info/40623118/raw/8482ab8d03cbc9e8e61c1877d59ba96f2f443670d5432ad9d86dd13d38a3b20a?m=image/jpeg" width="200" height="250"&gt;&lt;/a&gt;
 &lt;img src="https://cpa.kmol.info/40623118/raw/ff36b7d335612b0a01ec4e2c00999f1429a49dece72ec7ad87dc517c911b6798?m=image/jpeg" width="200" height="250"&gt;&lt;/a&gt;</t>
+<t tx="leo.20180109183609.1">&lt;section&gt;
+    @others
+&lt;/section&gt;
+</t>
+<t tx="leo.20180109183614.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20180109183919.1">#修改隨身系統
+
+* 將star.bat拉進SciTE修改，將REM及\apps刪除，並將資料夾改成正確的。
+
+* 將launchLeo.py拉進SciTE修改，將(fileName="y:/tmp/fossil/wd/2017fall/users/yen.leo")輸入至資料夾。
+</t>
+<t tx="leo.20180109202133.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20180109202133.2">#Dia pottable與GIMP Portable
+下載軟體Dia pottable、GIMP Portable，並學會剪輯、繪製等
+* 使用DiaPortable 來繪製圖片
+* 使用GIMPPortable 來裁減適當的圖片</t>
+<t tx="leo.20180109202210.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20180109202210.2">#Eric6對話框
+
+用 Eric6 完成對話框所需按鍵的位置， 設定 Dialog、PushButton 與 lineEdit 物件的尺寸大小、命名物件， 設定 clicked 與 connect方法，完成一連串的步驟後，即可按按鍵並顯示出對應的數字。</t>
+<t tx="leo.20180109203226.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20180109203228.1">#W10-W12
+* 修改隨身系統以方便使用
+* 使用Dia pottable、GIMP Portable來編輯圖片
+* 新建個人Gtihub的帳號，並且將fossil合併至裡面
+* 使用eric6讓對話框能顯示相對應的數字</t>
+<t tx="leo.20180109203755.1">&lt;section&gt;
+    @others
+&lt;/section&gt;
+</t>
+<t tx="leo.20180109204648.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20180109204723.1">#W13-W15
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
