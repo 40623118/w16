@@ -121,7 +121,7 @@
 <v t="leo.20180109204648.1"><vh>W13-W15</vh>
 <v t="leo.20180109204723.1"><vh>內容</vh></v>
 </v>
-<v t="leo.20180110202903.1"><vh>Ethercalc</vh>
+<v t="leo.20180110202903.1" a="E"><vh>Ethercalc</vh>
 <v t="leo.20180110202904.1"><vh>內容</vh></v>
 </v>
 <v t="leo.20180110203108.1"><vh>計算機檢驗</vh>
@@ -741,7 +741,7 @@ for i in range(8):
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20180109202133.2">###Dia pottable與GIMP Portable
+<t tx="leo.20180109202133.2">#######Dia pottable與GIMP Portable
 下載軟體Dia pottable、GIMP Portable，並學會剪輯、繪製等
 * 使用DiaPortable 來繪製圖片
 * 使用GIMPPortable 來裁減適當的圖片</t>
@@ -810,7 +810,7 @@ for i in range(8):
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20180110202904.1">#創建EtherCalc表單
+<t tx="leo.20180110202904.1">########創建EtherCalc表單
 
 透過課堂上所學的 -&gt;了解如何使用-&gt;
 
