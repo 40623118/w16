@@ -9,7 +9,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="yen.20170108171605.1" a="E"><vh>@settings</vh>
+<v t="yen.20170108171605.1"><vh>@settings</vh>
 <v t="yen.20170108171605.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="yen.20170108171605.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
@@ -103,8 +103,8 @@
 <v t="leo.20171108232346.1"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20180109183609.1" a="E"><vh>W10-W12</vh>
-<v t="leo.20180109203226.1"><vh>W10-W12</vh>
+<v t="leo.20180109183609.1"><vh>W10-W12</vh>
+<v t="leo.20180109203226.1" a="E"><vh>W10-W12</vh>
 <v t="leo.20180109203228.1"><vh>內容</vh></v>
 </v>
 <v t="leo.20180109183614.1"><vh>修改隨身系統</vh>
@@ -117,9 +117,26 @@
 <v t="leo.20180109202210.2"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20180109203755.1" a="E"><vh>W13-W15</vh>
-<v t="leo.20180109204648.1" a="E"><vh>W13-W15</vh>
+<v t="leo.20180109203755.1"><vh>W13-W15</vh>
+<v t="leo.20180110203108.1"><vh>計算機檢驗</vh>
+<v t="leo.20180110203108.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20180109204648.1"><vh>W13-W15</vh>
 <v t="leo.20180109204723.1"><vh>內容</vh></v>
+</v>
+<v t="leo.20180110202903.1"><vh>Ethercalc</vh>
+<v t="leo.20180110202904.1"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20180110200700.1"><vh>W16-W18</vh>
+<v t="leo.20180110200700.2" a="E"><vh>W16-W18</vh>
+<v t="leo.20180110200759.1"><vh>內容</vh></v>
+</v>
+<v t="leo.20180110200841.1" a="E"><vh>心得</vh>
+<v t="leo.20180110200848.1"><vh>內容</vh></v>
+</v>
+<v t="leo.20180110200936.1" a="E"><vh>自評</vh>
+<v t="leo.20180110200938.1"><vh>內容</vh></v>
 </v>
 </v>
 <v t="leo.20170911090822.1"><vh>隨身碟內容介紹</vh>
@@ -765,7 +782,67 @@ for i in range(8):
 
 </t>
 <t tx="leo.20180109204723.1">#W13-W15
+* 說明期末專案執行相關期程規劃與內容提要
+* 創建ETHERCALC表單
+* 計算機檢驗</t>
+<t tx="leo.20180110200700.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
 </t>
+<t tx="leo.20180110200700.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20180110200759.1">#W16-W18
+* 與組員協同編寫期末報告
+* 完成個人簡報及分組報告,並用Share-X錄製影片並上傳至Vimeo、Youtube再推送至一甲期末個人簡報
+* 說明如何利用 Pandoc 與 MikTeX 協同編寫期末報告並下載Python2017fall_36-2.7z
+* 製作一個完整的計算機,並用Share-X錄製影片並上傳至Vimeo、Youtube再推送至一甲期末驗收</t>
+<t tx="leo.20180110200841.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20180110200848.1">#心得
+從第十週到第十八週,我已經從不懂計算機的程式到現在大概可以自己做出一個可運算的計算機，也學會了github的使用與推送，並與分組學員一起討論分工製作好一個計算機，雖然剛開始與組員有些隔閡，但之後循序漸進，而我相信以後一定可以更加的熟悉這些操作的，並且可以的話我也像跟同學一樣去學習AutoLisp，讓AutoCAD的功能更為豐富。</t>
+<t tx="leo.20180110200936.1"></t>
+<t tx="leo.20180110200938.1">#自評成績
+出席 (20%): 18 分
+
+平時表現 (30%): 25 分
+
+驗收考試 (30%):25 分
+
+驗收簡報 (20%): 18 分
+
+總分 : 86 分</t>
+<t tx="leo.20180110202903.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180110202904.1">#創建EtherCalc表單
+
+透過課堂上所學的 -&gt;了解如何使用-&gt;
+
+理解為何學習 -&gt; 自行攝取更多的課外的知識 -&gt;
+並用錄影或筆記將重記錄下來
+
+</t>
+<t tx="leo.20180110203108.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20180110203108.2">#計算機檢驗
+與組員們使用GitHub協同製作計算機基本功能包括加減乘除等並排除衝突</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
