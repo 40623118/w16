@@ -128,15 +128,12 @@
 <v t="leo.20180110202904.1"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20180110200700.1"><vh>W16-W18</vh>
+<v t="leo.20180110200700.1" a="E"><vh>W16-W18</vh>
 <v t="leo.20180110200700.2" a="E"><vh>W16-W18</vh>
 <v t="leo.20180110200759.1"><vh>內容</vh></v>
 </v>
 <v t="leo.20180110200841.1" a="E"><vh>心得</vh>
 <v t="leo.20180110200848.1"><vh>內容</vh></v>
-</v>
-<v t="leo.20180110200936.1" a="E"><vh>自評</vh>
-<v t="leo.20180110200938.1"><vh>內容</vh></v>
 </v>
 </v>
 <v t="leo.20170911090822.1"><vh>隨身碟內容介紹</vh>
@@ -785,12 +782,9 @@ for i in range(8):
 * 說明期末專案執行相關期程規劃與內容提要
 * 創建ETHERCALC表單
 * 計算機檢驗</t>
-<t tx="leo.20180110200700.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
+<t tx="leo.20180110200700.1">&lt;section&gt;
+    @others
 &lt;/section&gt;
-
 </t>
 <t tx="leo.20180110200700.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -811,17 +805,6 @@ for i in range(8):
 </t>
 <t tx="leo.20180110200848.1">#心得
 從第十週到第十八週,我已經從不懂計算機的程式到現在大概可以自己做出一個可運算的計算機，也學會了github的使用與推送，並與分組學員一起討論分工製作好一個計算機，雖然剛開始與組員有些隔閡，但之後循序漸進，而我相信以後一定可以更加的熟悉這些操作的，並且可以的話我也像跟同學一樣去學習AutoLisp，讓AutoCAD的功能更為豐富。</t>
-<t tx="leo.20180110200936.1"></t>
-<t tx="leo.20180110200938.1">#自評成績
-出席 (20%): 18 分
-
-平時表現 (30%): 25 分
-
-驗收考試 (30%):25 分
-
-驗收簡報 (20%): 18 分
-
-總分 : 86 分</t>
 <t tx="leo.20180110202903.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
